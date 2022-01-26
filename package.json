@@ -28,7 +28,7 @@
   ],
   "dependencies": {
     "posthtml": "^0.15.1",
-    "posthtml-expressions": "^1.7.1",
+    "posthtml-expressions": "^1.9.0",
     "posthtml-parser": "^0.7.1"
   },
   "devDependencies": {
